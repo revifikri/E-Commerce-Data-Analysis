@@ -1,0 +1,9 @@
+# Project URLs and References
+
+## Dataset
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+## Documentation
+Pandas: https://pandas.pydata.org/docs/
+Plotly: https://plotly.com/python/
+Seaborn: https://seaborn.pydata.org/tutorial.html
